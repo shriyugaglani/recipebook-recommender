@@ -17,6 +17,7 @@ bs4 = "*"
 nltk = "*"
 unidecode = "*"
 scikit-learn = "*"
+numpy = "*"
 
 [dev-packages]
 
